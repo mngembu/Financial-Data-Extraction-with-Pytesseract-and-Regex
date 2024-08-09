@@ -37,7 +37,7 @@ Here are the steps taken:
 
 2. **Set Up the Virtual Environment** 
 - python -m venv venv
-- source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+- source venv/bin/activate    (On Windows, use `venv\Scripts\activate`)
 
 3. **Install Dependencies**:
 - python -m pip install -r requirements.txt
